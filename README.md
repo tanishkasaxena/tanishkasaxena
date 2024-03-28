@@ -6,8 +6,6 @@
 
 ## 💫 About Me
 
-<img align = "right" style="position:absolute;" alt = "coding" width = "200" src = "https://i.pinimg.com/originals/43/31/36/433136a8a9b8e97246c8f2a52b7e3bae.gif"> 
-
 🔭 I'm currently pursuing my B.tech (Bachelor of Technology) in <br>Computer Science and Engineering from Graphic Era (Deemed to be) University.<br>🤝 How to reach me : tanishkasaxena13@gmail.com<br>🌱 I’m currently learning Data Structures and Algorithm (DSA)<br>💬 Ask me about Problem Solving, UI/UX Designing, DSA.<br>⚡ Fun fact: I am a space enthusiast!
 
 
@@ -20,6 +18,9 @@
 
 
 ## 📊 GitHub Stats
+
+<img align = "right" style="position:absolute;" alt = "coding" width = "200" src = "https://i.pinimg.com/originals/43/31/36/433136a8a9b8e97246c8f2a52b7e3bae.gif"> 
+
 ![](https://github-readme-stats.vercel.app/api?username=tanishkasaxena&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=tanishkasaxena&theme=dracula&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tanishkasaxena&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
