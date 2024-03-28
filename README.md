@@ -1,7 +1,7 @@
 ![MasterHead](https://i.pinimg.com/originals/fe/47/bc/fe47bcf86fef244c8e550a4210ee9d9f.gif)
 # 💫 About Me
 🔭 I'm currently pursuing my B.tech (Bachelor of Technology) in Computer Science and Engineering from Graphic Era (Deemed to be) University.<br>🤝 How to reach me : tanishkasaxena13@gmail.com<br>🌱 I’m currently learning Data Structures and Algorithm (DSA)<br>💬 Ask me about Problem Solving, UI/UX Designing, DSA.<br>⚡ Fun fact: I am a space enthusiast!
-<img align = "right" alt = "coding" width = "400" src = "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.rolimons.com%2Fitem%2F14601754361&psig=AOvVaw1lE7gLnhN0014ceJ9h-L8y&ust=1711737953735000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJjpuPrOl4UDFQAAAAAdAAAAABAE">
+<img align = "right" alt = "coding" width = "400" src = "https://tr.rbxcdn.com/6c97712f57a7bb47b3a723b13ecdb199/420/420/Hat/Png">
 
 
 ## 🌐 Socials
