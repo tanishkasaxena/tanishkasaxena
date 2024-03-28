@@ -1,6 +1,8 @@
 ![MasterHead](https://wallpaperaccess.com/full/8351153.gif)
 <h2 align="center">Hey! <img src="https://gifdb.com/images/high/cute-wave-emoji-hand-59s88kk0zj3xho40.gif" style="height:25px;" height="25"/> I'm Tanishka Saxena.</h2>
 
+[![](https://visitcount.itsvg.in/api?id=tanishkasaxena&icon=5&color=11)](https://visitcount.itsvg.in)
+
 
 # 💫 About Me
 🔭 I'm currently pursuing my B.tech (Bachelor of Technology) in Computer Science and Engineering from Graphic Era (Deemed to be) University.<br>🤝 How to reach me : tanishkasaxena13@gmail.com<br>🌱 I’m currently learning Data Structures and Algorithm (DSA)<br>💬 Ask me about Problem Solving, UI/UX Designing, DSA.<br>⚡ Fun fact: I am a space enthusiast!
@@ -26,7 +28,6 @@
 ![](https://github-contributor-stats.vercel.app/api?username=tanishkasaxena&limit=5&theme=dracula&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=tanishkasaxena&icon=5&color=11)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
