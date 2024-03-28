@@ -5,7 +5,7 @@
 
 
 ## 💫 About Me
-🔭 I'm currently pursuing my B.tech (Bachelor of Technology) in Computer Science and Engineering from Graphic Era (Deemed to be) University.<br>🤝 How to reach me : tanishkasaxena13@gmail.com<br>🌱 I’m currently learning Data Structures and Algorithm (DSA)<br>💬 Ask me about Problem Solving, UI/UX Designing, DSA.<br>⚡ Fun fact: I am a space enthusiast!
+🔭 I'm currently pursuing my B.tech (Bachelor of Technology) in <br>Computer Science and Engineering from Graphic Era (Deemed to be) University.<br>🤝 How to reach me : tanishkasaxena13@gmail.com<br>🌱 I’m currently learning Data Structures and Algorithm (DSA)<br>💬 Ask me about Problem Solving, UI/UX Designing, DSA.<br>⚡ Fun fact: I am a space enthusiast!
 
 
 ## 🌐 Socials
