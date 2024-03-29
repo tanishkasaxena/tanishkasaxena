@@ -6,12 +6,23 @@
 
 ## 💫 About Me
 
-🔭 I'm currently pursuing my B.tech (Bachelor of Technology) in <br>Computer Science and Engineering from Graphic Era (Deemed to be) University.<br>🤝 How to reach me : tanishkasaxena13@gmail.com<br>🌱 I’m currently learning Data Structures and Algorithm (DSA)<br>💬 Ask me about Problem Solving, UI/UX Designing, DSA.<br>⚡ Fun fact: I am a space enthusiast!
+- 🔭 I'm currently pursuing my B.tech (Bachelor of Technology) in <br>Computer Science and Engineering from Graphic Era (Deemed to be) University.<br>
 
+- 🤝 How to reach me : tanishkasaxena13@gmail.com<br>
+
+- 🌱 I’m currently learning **Data Structures and Algorithm (DSA)**.<br>
+
+- 💬 Ask me about Problem Solving, UI/UX Designing, DSA.<br>
+
+- ⚡ Fun fact: I am a space enthusiast!
+
+<hr/>
 
 
 ## 🌐 Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tanishka.exists) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanishka-s-35b863251/) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/tanexists) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/tan_exists) ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white) ![Threads](https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=Threads&logoColor=white) ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06) ![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)
+
+<hr/>
 
 
 
@@ -28,6 +39,7 @@
 ### OS
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
+<hr/>
 
 
 ## 📊 GitHub Stats
