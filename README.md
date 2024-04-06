@@ -14,7 +14,7 @@
 
 - 💬 Ask me about Problem Solving, UI/UX Designing, DSA.<br>
 
-- ⚡ Fun fact: I am a space enthusiast!
+- ⚡ Fun fact: I am a space enthusiast.
 
 <hr/>
 
