@@ -1,7 +1,7 @@
 ![MasterHead](https://wallpaperaccess.com/full/8351153.gif)
 <h2 align="center">Hey! <img src="https://gifdb.com/images/high/cute-wave-emoji-hand-59s88kk0zj3xho40.gif" style="height:25px;" height="25"/> I'm Tanishka Saxena.</h2>
 
-[![](https://visitcount.itsvg.in/api?id=tanishkasaxena&icon=5&color=11)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=tanishkasaxena&icon=5&color=11)](https://visitcount.itsvg.in) 
 
 
 ## 💫 About Me
@@ -55,7 +55,7 @@
 
 ## 📊 GitHub Stats
 
-<img align = "right" style="position:absolute;" alt = "coding" width = "200" src = "https://i.pinimg.com/originals/43/31/36/433136a8a9b8e97246c8f2a52b7e3bae.gif"> 
+<img align = "right" style="position:absolute;" alt = "coding" width = "200" src = "https://static.vecteezy.com/system/resources/previews/022/719/502/original/cute-robot-chatbot-ai-bot-character-design-illustration-ai-technology-and-cyber-character-futuristic-technology-service-and-communication-artificial-intelligence-concept-free-png.png">
 
 ![](https://github-readme-stats.vercel.app/api?username=tanishkasaxena&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=tanishkasaxena&theme=dracula&hide_border=false)<br/>
